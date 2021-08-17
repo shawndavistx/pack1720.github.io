@@ -9,6 +9,10 @@ trim_trailing_whitespace = true
 insert_final_newline = true
 draw_white_space = all
 
+[*.js]
+indent_style = space
+indent_size = 2
+
 [*.yml]
 indent_style = space
 indent_size = 2
